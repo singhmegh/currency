@@ -91,6 +91,7 @@ form button:hover{
     .container{
         height: 40%;
         width: 50%;
+        font-size:1rem;
     }
 .select-container{
     width: 100%;
@@ -98,10 +99,11 @@ form button:hover{
 }
 button{
     background-color: antiquewhite;
-    width: 40%;
+    width: 100%;
+
 }
 input{
-    width: 40%;
+    width: 100%;
     background-color:azure ;
 }
 }
